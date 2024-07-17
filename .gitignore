@@ -1,0 +1,5 @@
+uploads/*.*
+uploads/cropped/*.*
+!uploads/.htaccess
+vendor/
+config.php
